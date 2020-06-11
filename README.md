@@ -11,6 +11,6 @@ However, if the player rolls a 1, all his ROUND score is lost. After such event,
 The player can choose to Hold, which means adding his ROUND score to his GLOBAL score.
 After a hold, it's the next player's turn.
 
-The first player to reach a GLOBAL score of 100 wins the game.
+The first player to reach a GLOBAL score of 20 wins the game.
 
 *App Code features an MVC JS model*
