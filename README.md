@@ -1,6 +1,7 @@
 # Pig Dice Game
 ## A dice game of probability.
 
+You can play the game here: [https://call900913.github.io/js-pigdicegame](https://call900913.github.io/js-pigdicegame).
 
 The game has 2 players, playing in rounds.
 
